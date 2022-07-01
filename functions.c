@@ -15,6 +15,7 @@ int function(int k, int i, int N, double p) {
 
                 break;
             }
+            return k;
         }
 
 }
