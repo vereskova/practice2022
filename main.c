@@ -24,4 +24,5 @@ int main()
     if (N <= 0) {
         printf("incorrectly entered number\n");
     }
+    function(k, i, N, p);
 }
