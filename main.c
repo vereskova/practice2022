@@ -21,4 +21,7 @@ int main()
     printf("Enter N: ");
     scanf_s("%i", &N);
 
+    if (N <= 0) {
+        printf("incorrectly entered number\n");
+    }
 }
