@@ -13,5 +13,12 @@
 
 int main()
 {
+    int N;
+    int i = 0;
+    int k = 0;
+    double p = 0;
+
+    printf("Enter N: ");
+    scanf_s("%i", &N);
 
 }
