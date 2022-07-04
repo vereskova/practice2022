@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+#include "header.h"
 
 int function(int k, int i, int N, double p) {
     int j = 0;
